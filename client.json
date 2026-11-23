@@ -1,1 +1,1 @@
-{"client_id":"https://cdn.jsdelivr.net/gh/tigr78/bbmcp@main/client.json","client_name":"BB Test","redirect_uris":["http://127.0.0.1:9001/callback"],"grant_types":["authorization_code"],"response_types":["code"],"token_endpoint_auth_method":"none"}
+{"client_id":"https://cdn.jsdelivr.net/gh/tigr78/bbmcp@master/client.json","client_name":"BB Test","redirect_uris":["http://127.0.0.1:9001/callback"],"grant_types":["authorization_code"],"response_types":["code"],"token_endpoint_auth_method":"none"}
